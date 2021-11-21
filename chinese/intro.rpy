@@ -7702,7 +7702,7 @@ translate chinese window_opened_88c37302:
 translate chinese window_opened_1e7819e6:
 
     # mt "{i}Wait what am I thinking?! I should be hoping the girls behave themselves. Not hoping they get in trouble.{/i}"
-    mt "{I}等等,我在想什么呢?!我应该希望女孩们规规矩矩的.而不是希望他们惹上麻烦.{/i}"
+    mt "{i}等等,我在想什么呢?!我应该希望女孩们规规矩矩的.而不是希望他们惹上麻烦.{/i}"
 
 # game/intro.rpy:4002
 translate chinese window_opened_d9d18654:
